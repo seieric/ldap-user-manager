@@ -1,0 +1,5 @@
+SetEnv LDAP_URI 'ldaps://ldap.example.com:636'
+SetEnv LDAP_BASE_DN 'your ldap base dn'
+SetEnv LDAP_ADMIN_BIND_DN 'your ldap admin bind dn'
+SetEnv LDAP_ADMIN_BIND_PWD 'your ldap admin password'
+SetEnv LDAP_ADMINS_GROUP 'your ldap admin group'
